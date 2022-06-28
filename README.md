@@ -1,1 +1,1 @@
-# -pivotal-automation-tests
+# pivotal-automation-tests
